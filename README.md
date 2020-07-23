@@ -1,4 +1,6 @@
-# myproject
+![Project Demo](weatherapp_demo.gif)
+
+# weatherapp
 
 ## Project setup
 ```
